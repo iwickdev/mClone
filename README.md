@@ -1,5 +1,5 @@
 # mClone
- A utility to copy large amounts of files quickly though threading
+ A utility to copy large amounts of files quickly with threading
 
 # Usage
  mClone "C:\Users\Test\TestFolder" "F:\TestFolderCopy" 500
